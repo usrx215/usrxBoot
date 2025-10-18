@@ -1,12 +1,14 @@
 # usrxBoot
 a pre-OS micro-operating system running in UEFI space that is very configurable  
-for the following systems
+## supports
 - x86_64 UEFI
 - x86 UEFI
 - armhf (32-bit ARM) UEFI
 - AArch64 (64-bit ARM) UEFI
-yes, the ARM ones mean it runs on your raspi
-features:
+  
+yes, the ARM ones mean it runs on your raspi  
+  
+## features:  
 - boot animation with sound
 - themes
 - boot menu
@@ -14,5 +16,6 @@ features:
 - file browser
 - SSH client
 - custom software capability
-TODO:
+  
+## TODO:  
 - literally everything lol
