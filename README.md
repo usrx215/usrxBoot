@@ -6,3 +6,13 @@ for the following systems
 - armhf (32-bit ARM) UEFI
 - AArch64 (64-bit ARM) UEFI
 yes, the ARM ones mean it runs on your raspi
+features:
+- boot animation with sound
+- themes
+- boot menu
+- terminal
+- file browser
+- SSH client
+- custom software capability
+TODO:
+- literally everything lol
