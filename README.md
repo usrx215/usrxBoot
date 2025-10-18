@@ -1,2 +1,8 @@
 # usrxBoot
-a pre-OS micro-operating system running in UEFI space that is very configurable
+a pre-OS micro-operating system running in UEFI space that is very configurable  
+for the following systems
+- x86_64 UEFI
+- x86 UEFI
+- armhf (32-bit ARM) UEFI
+- AArch64 (64-bit ARM) UEFI
+yes, the ARM ones mean it runs on your raspi
